@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'directivs';
+  title = '🤪 Emoji 🤪';
+  happy = false;
+  sad = false;
+  crazy = false;
 }
